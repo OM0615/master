@@ -1,0 +1,58 @@
+.head{
+    font-size: 80px;
+}
+.figure1 
+{width: 10%;
+    height: auto;
+    position: absolute;
+
+}
+<!--マージン-->
+.tighnari {
+    margin: 20px;
+}
+.material1{
+    margin-left: 20px;
+    margin-top: 20px;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%)
+}
+.arm1{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.seiibutu1{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.memo1{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.nahida{
+    margin: 20px;
+}
+.figure2 
+{width: 10%;
+    height: auto;
+    position: absolute;
+
+}
+.material2{
+    margin: 20px;
+    margin-left: 20px;
+}
+.material2 p {
+    margin: 30px;
+}
+.arm2{
+    margin: 20px;
+}
+.memo2{
+    margin: 40px;
+    margin-bottom: 100px;
+}
+.address{
+    margin: 40px;
+}
